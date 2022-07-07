@@ -1,1 +1,1 @@
-The start to C
+Third learning skill in C, debugging.
